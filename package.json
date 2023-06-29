@@ -1,0 +1,15 @@
+{
+  "name": "recgovnodescraper",
+  "version": "1.0.0",
+  "description": "a web scraper to scrape recreation.gov web site for campsite availability and notify user when availability occurs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jdlevish",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^20.7.3"
+  }
+}
